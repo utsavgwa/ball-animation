@@ -1,6 +1,6 @@
 .box {
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   background-color: #0074d9;
   border-radius: 50%; /*put border-radius: 50%; it makes the corners so rounded that the div actually ends up being a circle. */
 }
@@ -11,4 +11,9 @@ body {
   align-items: center;
   flex-direction: column;
   min-height: 400px;
+}
+
+.heading{
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
 }

@@ -6,7 +6,7 @@ When the mouse is clicked on the ball and dragged anywhere on the screen, the ba
 
 ## Live Preview
 
-Site is live as [***Demo Animation***](https://utsavsingh.me/ball-animation/), go and check it out!
+Site is live as [***Ball Animation***](https://utsavsingh.me/ball-animation/), go and check it out!
 See how it works.
 
 URL for website is --

@@ -6,11 +6,12 @@ When the mouse is clicked on the ball and dragged anywhere on the screen, the ba
 
 ## Live Preview
 
-Site is live as [***Ball Animation***](https://utsavsingh.me/ball-animation/), go and check it out!
+Site is live as [***Ball Animation***](https://utsavgwa.github.io/ball-animation/), go and check it out!
 See how it works.
 
 URL for website is --
-https://utsavsingh.me/ball-animation/
-
+```
+https://utsavgwa.github.io/ball-animation/
+```
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
